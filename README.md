@@ -1,4 +1,4 @@
-# cv2_ballrecognition Распознование мячей на фотографиях
+# cv2_ballrecognition
 
 <p>Распознование мячей на фотографиях</p>
 <p>Библиотеки: OpenCV, Numpy</p>
